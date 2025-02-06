@@ -5,7 +5,7 @@ ktlint = "0.41.0"
 room = "2.5.0"
 dagger = "2.38.1"
 androidxhilt = "1.0.0"
-androidxlifecycle = "2.4.0-alpha03"
+androidxlifecycle = "2.9.0-alpha09"
 kotlinxcoroutines = "1.5.1"
 mockk = "1.12.0"
 
